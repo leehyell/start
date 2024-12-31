@@ -26,8 +26,7 @@ SpringBoot 시작할 때 밑작업
     <ul>
       <li>templates
         <ul>
-          <li>common</li>
-          <li>home</li>
+          <li>html</li>
         </ul>
       </li>
     </ul>
