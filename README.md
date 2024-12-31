@@ -1,7 +1,18 @@
-# start
-SpringBoot 시작할 때 밑작업
+# 🧐start
+👌🏻 SpringBoot 시작할 때 밑작업이 되어 있는 레파지토리
+<br/>
+👌🏻 thymeleaf layout 되어 있음
 <hr>
-구조:<br/>
+git clone 후 resources/templates/application.properties 파일의
+<br/>
+spring.datasource.username=
+<br/>
+spring.datasource.password=
+<br/>
+계정 변경 후 서버 실행
+<hr>
+🌫 구조:
+<br/>
 <ul>
   <li>java
     <ul>
@@ -32,3 +43,12 @@ SpringBoot 시작할 때 밑작업
     </ul>
   </li>
 </ul>
+<br/>
+🌫 popup 종류
+<br/>
+<ul>
+  <li>alert</li>
+  <li>confirm</li>
+  <li>standby</li>
+</ul>
+※ popup 사용법은 2025년 1월 2일에 업로드 예정
