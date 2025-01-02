@@ -47,8 +47,27 @@ spring.datasource.password=
 🌫 popup 종류
 <br/>
 <ul>
-  <li>alert</li>
-  <li>confirm</li>
-  <li>standby</li>
+  <li>alert
+    <ul>
+      <li>- alert_whole div</li>
+      <li>- 팝업 열기: alertShow(text1,text2)</li>
+      <li>- 팝업 닫기: alertHide()</li>
+    </ul>
+  </li>
+  <li>confirm
+    <ul>
+      <li>- confirm_whole div</li>
+      <li>- 팝업 열기: confirmShow(text1,text2,type)</li>
+      <li>- 팝업 닫기: confirmHide()</li>
+    </ul>
+  </li>
+  <li>standby
+    <ul>
+      <li>- standby_whole div</li>
+      <li>- 팝업 열기: standbyShow(text1,text2)</li>
+      <li>- 팝업 닫기: standbyHide()</li>
+    </ul>
+  </li>
 </ul>
-※ popup 사용법은 2025년 1월 2일에 업로드 예정
+※ 공통 팝업 닫기: commonHide()
+※ 팝업에 대해 궁금한 부분이 있다면? helena1005@naver.com 또는 hellllena1005@gmail.com에 연락💌
