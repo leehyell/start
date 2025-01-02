@@ -73,5 +73,8 @@ spring.datasource.password=
 <br/><br/><br/>
 💌 궁금한 부분이 있다면?
 <br/>
-helena1005@naver.com
-hellllena1005@gmail.com
+mail to
+<br/>
+<b>helena1005@naver.com</b>
+<br/>
+<b>hellllena1005@gmail.com</b>
