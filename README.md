@@ -70,4 +70,8 @@ spring.datasource.password=
   </li>
 </ul>
 ※ 공통 팝업 닫기: commonHide()
-※ 팝업에 대해 궁금한 부분이 있다면? helena1005@naver.com 또는 hellllena1005@gmail.com에 연락💌
+<br/><br/><br/>
+💌 궁금한 부분이 있다면?
+<br/>
+helena1005@naver.com
+hellllena1005@gmail.com
