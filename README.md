@@ -1,4 +1,4 @@
-# 🧐start
+# 🧐How To Start?!
 👌🏻 SpringBoot 시작할 때 밑작업이 되어 있는 레파지토리
 <br/>
 👌🏻 thymeleaf layout 되어 있음
