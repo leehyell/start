@@ -2,7 +2,7 @@
 👌🏻 SpringBoot 시작할 때 밑작업이 되어 있는 레파지토리
 <br/>
 👌🏻 thymeleaf layout 되어 있음
-<hr>
+##
 git clone 후 resources/templates/application.properties 파일의
 <br/>
 spring.datasource.username=
@@ -10,7 +10,7 @@ spring.datasource.username=
 spring.datasource.password=
 <br/>
 계정 변경 후 서버 실행
-<hr>
+##
 🌫 구조:
 <br/>
 <ul>
@@ -43,7 +43,7 @@ spring.datasource.password=
     </ul>
   </li>
 </ul>
-<br/>
+<h2></h2>
 🌫 popup 종류
 <br/>
 <ul>
@@ -70,11 +70,15 @@ spring.datasource.password=
   </li>
 </ul>
 ※ 공통 팝업 닫기: commonHide()
-<br/><br/><br/>
+<br/><br/>
+<h2></h2>
+<br/>
 💌 궁금한 부분이 있다면?
 <br/>
 mail to
 <br/>
 <b>helena1005@naver.com</b>
+<br/>
+  or
 <br/>
 <b>hellllena1005@gmail.com</b>
